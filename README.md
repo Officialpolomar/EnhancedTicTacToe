@@ -12,3 +12,7 @@ Components:
 
 How do you win?
 - Place three of your letters in a row diagonally, vertically, or horizonally
+
+Other Notes:
+- input validation is included
+- entirely written in c++ 
